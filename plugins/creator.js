@@ -20,13 +20,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Letta
-*ᴀɢᴇ:* 13ᵗʰ
-*ᴄʟᴀss:* 7
-*sᴛᴀᴛᴜs:* single 
+*ɴᴀᴍᴇ:* Jaka
+*ᴀɢᴇ:* 16Th
+*ᴄʟᴀss:* 10
+*sᴛᴀᴛᴜs:* Couple
 
-*ʙɪʀᴛʜᴅᴀʏ:* 5 Oct 2008
-*ᴀᴅᴅʀᴇss:* Indonesia, jawa barat, bogor
+*ʙɪʀᴛʜᴅᴀʏ:* 20 June 2006
+*ᴀᴅᴅʀᴇss:* Indonesia, jawa Timur, Gresik
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
