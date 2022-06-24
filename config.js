@@ -51,26 +51,26 @@ global.sdc = 'https://instagram.com/sahrulwara_____?igshid=ZDc0MTNkNmI='
 global.snh = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285822347348'
+global.pdana = '6281376490773'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '6285822347348'
-global.ppulsa2 = '6283843192208'
+global.ppulsa = '6281275274328'
+global.ppulsa2 = '628127527432('
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283843192208'
-global.nomorown = '6285822347348'
-global.namebot = 'ArullBotzMD'
-global.nameown = 'ArullOfc'
+global.nomorbot = '6281275274328'
+global.nomorown = '6281376490773'
+global.namebot = 'yusril rtc'
+global.nameown = 'rtc kawaii'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285822347348'],
-  ['6285822347348'],
-  ['6285822347348'],
-  ['6285822347348', 'ArullOfc ! 🐰', true]
+  ['6281376490773'],
+  ['6281376490773'],
+  ['6281376490773'],
+  ['6281376490773', 'rtc kawaii ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
